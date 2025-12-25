@@ -1,4 +1,0 @@
-{
-    "exec": "npx ts-node-dev ./src/server.ts",
-    "ext": "html,js,ts,css,json"
-}
